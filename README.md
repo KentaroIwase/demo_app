@@ -1,2 +1,2 @@
 This is memo apprication by using scaffold.
-Scaffoldを使ったデモアプリ
+Scaffold繧剃ｽｿ逕ｨ縺励◆繝�繝｢繧｢繝励Μ
